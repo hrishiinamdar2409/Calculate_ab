@@ -41,3 +41,73 @@
 {"level":"info","message":"Fetched last 10 logs"}
 {"level":"info","message":"Expression logged: 7*5"}
 {"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 5/"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 9*9"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 5+5"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 5/"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 2+2"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 48*"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}

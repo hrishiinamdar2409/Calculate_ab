@@ -12,7 +12,7 @@ const Calculator = () => {
 
     const fetchLogs = async () => {
         try {
-            const response = await axios.get('http://localhost:5000/api/logs'); //http://localhost:5000/api
+            const response = await axios.get('http://localhost:5000/api/logs');
             setLogs(response.data);
         } catch (error) {
             console.error('Error fetching logs:', error);
@@ -51,7 +51,7 @@ const Calculator = () => {
         try {
             await axios.post('http://localhost:5000/api/logs', {
                 expression: result,
-                isValid,
+                is_valid: isValid, // Use `is_valid` to match the back-end field
                 output
             });
             fetchLogs();
@@ -105,7 +105,7 @@ const Calculator = () => {
                             <tr key={log._id}>
                                 <td>{log._id}</td>
                                 <td>{log.expression}</td>
-                                <td>{log.isValid ? 'Yes' : 'No'}</td>
+                                <td>{log.is_valid ? 'Yes' : 'No'}</td>
                                 <td>{log.output}</td>
                                 <td>{new Date(log.created_on).toLocaleString()}</td>
                             </tr>
