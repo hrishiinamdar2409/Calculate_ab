@@ -1,0 +1,43 @@
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Request: GET /api"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required., operation: Path `operation` is required."}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required., operation: Path `operation` is required."}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required., operation: Path `operation` is required."}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Expression logged: 3-2"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"error","message":"Error logging expression: CalculatorLog validation failed: is_valid: Path `is_valid` is required."}
+{"level":"info","message":"Expression logged: 4-5"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Server is running on port 5000"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Fetched last 10 logs"}
+{"level":"info","message":"Expression logged: 7*5"}
+{"level":"info","message":"Fetched last 10 logs"}
